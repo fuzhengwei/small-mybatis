@@ -6,6 +6,12 @@
 
 在手写的过程中学习 Mybatis 从解析、绑定、反射、缓存，到回话和事务操作，以及如何与 Spring 进行关联注册 Bean 对象，完成整合部分功能逻辑。通过这些内容的拆解实现，读者伙伴就可以非常清楚的知道这些核心功能都是如何实现的了，以后再阅读 Mybatis 源码也就知道从哪开始到哪结束了。
 
+## 源码
+
+**全部完整源码获取说明**：关注公众号：`bugstack虫洞栈` 回复：`手写Mybatis`
+**全部完整源码获取说明**：关注公众号：`bugstack虫洞栈` 回复：`手写Mybatis`
+**全部完整源码获取说明**：关注公众号：`bugstack虫洞栈` 回复：`手写Mybatis`
+
 ## 目录
 
 - [【难度☆☆☆☆☆】第01章：开篇介绍，我要带你撸 Mybatis 啦！](https://bugstack.cn/md/spring/develop-mybatis/2022-03-20-%E7%AC%AC1%E7%AB%A0%EF%BC%9A%E5%BC%80%E7%AF%87%E4%BB%8B%E7%BB%8D%EF%BC%8C%E6%89%8B%E5%86%99Mybatis%E8%83%BD%E7%BB%99%E4%BD%A0%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%EF%BC%9F.html)
